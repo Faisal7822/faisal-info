@@ -276,6 +276,8 @@ html{
     font-size: 30px;
     color: #FFFFFF;
     padding: 10px 10px;
+    display: inline-block;
+    margin-top: 20px;
 }
 
 .footer-icon h6{
