@@ -258,3 +258,73 @@ html{
     box-shadow: 0 0 10px white;
 }
 /* contact section end */
+/* footer section start */
+.footer2{
+    width: 100%;
+    height: 400px;
+    background: #061F24;
+    display: inline-block;
+    text-align: center;
+
+}
+
+.footer2 img{
+    margin-top: 50px;
+}
+
+.footer-icon a{
+    font-size: 30px;
+    color: #FFFFFF;
+    padding: 10px 10px;
+}
+
+.footer-icon h6{
+    font-family:"DM Sans", sans-serif;
+    font-size: 18px;
+    color: white;
+}
+
+.footer-icon a:hover{
+    color: red;
+}
+
+
+.copy a{
+    font-family: "DM Sans", sans-serif;
+    font-size: 18px;
+    color: red;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+
+.copy a:hover{
+    color: white;
+}
+
+.copy{
+    float: left;
+    clear: right;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.contact-link{
+    float: right;
+    display: inline-block;
+    padding: 50px;   
+}
+
+.Contact-link a{
+    display: inline-block;
+    font-size: 30px;
+    margin-left: 25px;
+    color: red;
+}
+
+.Contact-link a:hover{
+    color: white;
+}
+
+.sciol{
+    margin-top: 50px;
+}
+/* footer section end */
